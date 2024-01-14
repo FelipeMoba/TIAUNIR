@@ -24,4 +24,19 @@
         "nota": 7.2,
         "ranking": 50
     }
+        {
+        "alumno": "Maríane",
+        "nota": 9.2,
+        "ranking": 30
+    }
+                {
+        "alumno": "josefa",
+        "nota": 2.2,
+        "ranking": 100
+    }
+                        {
+        "alumno": "Marcos",
+        "nota": 7.9,
+        "ranking": 55
+    }
 ]
