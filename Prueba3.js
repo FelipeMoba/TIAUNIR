@@ -30,13 +30,13 @@
         "ranking": 30
     },
     {
-        "alumno": "josefa",
+        "alumno": "Josefa",
         "nota": 5.2,
         "ranking": 100
     },
     {
-        "alumno": "josefa",
-        "nota": 4.5
+        "alumno": "Josefa",
+        "nota": 4.5,
         "ranking": 110
     },
     {
