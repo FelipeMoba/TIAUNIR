@@ -1,6 +1,6 @@
 [
     {
-        "alumno": "Pedro",
+        "alumno": "ElkinMB",
         "nota": 9.09,
         "ranking": 10
     },
